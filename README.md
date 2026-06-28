@@ -70,11 +70,11 @@ A modern portfolio website showcasing my projects, skills, and internship readin
 ## GitHub Stats
 
 <p align="center"> 
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denzelsim;&theme=tokyonight" /> 
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denzelsim&theme=tokyonight" /> 
 </p>
 
 <div align="center"> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=euricodande&theme=tokyonight" /> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euricodande&theme=tokyonight" /> </div>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=denzelsim&theme=tokyonight" /> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=denzelsim&theme=tokyonight" /> </div>
 
 <h3 align="center">Let's connect and collaborate! 😃</h3>
